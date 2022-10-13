@@ -1,5 +1,5 @@
 # Introduction to Sudoku
-Sudoku is a Data structure and Algorithm based sudoku validator. These are a suite of C++ programs which deal with Sudoku Puzzles.
+Sudoku is a Data structure and Algorithm based sudoku Solver and Validator. These are a suite of C++ programs which deal with Sudoku Puzzles.
 
 # Contents
 
